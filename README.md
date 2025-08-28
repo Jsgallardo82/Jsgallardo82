@@ -33,18 +33,35 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### 🖥️ Frameworks & Libraries
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Heroicons](https://img.shields.io/badge/Heroicons-0A0A0A?style=for-the-badge&logo=heroicons&logoColor=white)
+![Lucide React](https://img.shields.io/badge/Lucide_React-000000?style=for-the-badge&logo=lucide&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=python&logoColor=white)
+![python-jose](https://img.shields.io/badge/python--jose-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![fastapi.security](https://img.shields.io/badge/FastAPI%20Security-FF6F00?style=for-the-badge&logo=auth0&logoColor=white)
+![python-multipart](https://img.shields.io/badge/python--multipart-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![hashlib](https://img.shields.io/badge/hashlib-5A5A5A?style=for-the-badge&logo=python&logoColor=white)
+![requests](https://img.shields.io/badge/Requests-008080?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-#### 🧠 Data Science & AI
-![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+#### 🧠 Data Science 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=blue)
+
+### 🤖 IA y Procesamiento de Lenguaje
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![pytesseract](https://img.shields.io/badge/PyTesseract-19457D?style=for-the-badge&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
 
 #### ☁️ Cloud & DevOps
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
@@ -52,13 +69,16 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-
-
 #### 🔧 Tools & Workflow
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### PDF & Documents
+![React PDF](https://img.shields.io/badge/React_PDF-FF5252?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+![pdf-lib](https://img.shields.io/badge/pdf--lib-4B8BBE?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+![html2pdf.js](https://img.shields.io/badge/html2pdf.js-008000?style=for-the-badge&logo=javascript&logoColor=white)
+![ExcelJS](https://img.shields.io/badge/ExcelJS-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
 
